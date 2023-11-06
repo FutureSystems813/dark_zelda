@@ -1,0 +1,41 @@
+{
+    "activeFile": "floor.tmx",
+    "expandedProjectPaths": [
+        "Neuer Ordner",
+        "."
+    ],
+    "fileStates": {
+        "Beach-and-caves-tileset_ALL_by_AxulArt.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "dark_zelda_pokemon_tiles.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "floor.tmx": {
+            "scale": 1.8901041666666665,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 239.9338660788096,
+                "y": 158.19233948746214
+            }
+        }
+    },
+    "last.imagePath": "C:/Users/mweinzettl/OneDrive - LNConsult GmbH/Desktop/AxulArt's Beach-and-caves-tileset_by_AxulArt",
+    "openFiles": [
+        "floor.tmx",
+        "Beach-and-caves-tileset_ALL_by_AxulArt.tsx"
+    ],
+    "project": "dark_zelda_maps_2.tiled-project",
+    "recentFiles": [
+        "Beach-and-caves-tileset_ALL_by_AxulArt.tsx",
+        "floor.tmx",
+        "dark_zelda_pokemon_tiles.tsx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    }
+}
